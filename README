@@ -1,0 +1,4 @@
+enter these order:
+1-git clone https://github.com/mehrbod2002/ipchanger.sh.git
+2-chmod +x ipchanger.sh
+3-./ipchanger.sh
